@@ -1,0 +1,253 @@
+
+.cabeçalho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.items {
+    width: 100%;
+    border-radius: 30px;
+
+}
+
+.meuportfolio {
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    text-align: center;
+    font-size: 70px;
+    color: #8300E9;
+    margin: 0;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.introducao {
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    margin: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    margin-top: 130px;
+}
+
+.introducao2 {
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-size: 30px;
+    height: 90px;
+    margin-top: -10px;
+    opacity: 80%;
+}
+
+.imagemaleatoria {
+   margin-left: 150px;
+   width: 20%;
+   height: 10%;
+   margin-right: 20px;
+   margin-top: 50px;
+   float: left;
+}
+
+.SobrePP, .ProjetosPP, .CurriculoPP, .ContatoPP, .nomePP {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    margin: 5px;
+}
+
+.SobrePP:hover, .ProjetosPP:hover, .CurriculoPP:hover, .ContatoPP:hover, .nomePP:hover  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    font-style: italic;
+    background-color: #8300E9;
+    border-radius: 80px;
+    cursor: pointer;
+    padding: 15px;
+    color: white;
+}
+
+/* SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 SEÇÃO 1 */
+.links {
+    text-decoration: none;
+    color: inherit;
+}
+
+.Secao1 {
+    background-color: #8300E9;
+    margin-top:180px;
+    padding: 20px;
+    height: 650px;
+    
+}
+
+.h1_1 {
+    color: white;
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    margin-left: 400px;
+    font-size: 35px;
+    margin-top: 100px;
+}
+
+.h3_1 {
+    color: white;
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    margin-left: 400px;
+}
+.p1 {
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: justify;
+    margin-bottom: 5px;
+}
+
+/* SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 SECÃO 2 */
+
+.Secao2 {
+    margin-top: 50px;
+    background-color: white;
+}
+
+.h1_2 {
+    font-family:"Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+.links_2 {
+    text-decoration: none;
+    font-family:"Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+
+.exProjetos {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #8300E9;
+    margin: 15px;
+    border-radius: 30px;
+    margin-left: 420px;
+    margin-right: 420px;
+}
+
+.p2 {
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    color: black;
+    margin-left: 400px;
+    margin-right: 400px;
+    text-align: justify;
+    margin-bottom: 5px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 SECAO3 */
+
+.Secao3 {
+    margin-top: 100px;
+    background-color: #8300E9;
+    margin-top:180px;
+    padding: 20px;
+    height: 650px;
+}
+
+.h1_3 {
+    font-family:"Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+ .p3 {
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+ }
+
+.botao_3 {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+ .download_3 {
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    background-color: white;
+    color: #8300E9; 
+    border: none; 
+    padding: 20px; 
+    height: 50px; 
+    width: 150px;
+    font-size: 16px; 
+    border-radius: 30px; 
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+.download_3:hover {
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    background-color: white;
+    color: #8300E9; 
+    border: none; 
+    padding: 18px; 
+    height: 48px; 
+    width: 148px;
+    font-size: 16px; 
+    border-radius: 30px; 
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: italic;
+}
+
+ .MidiasSociais {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .Instagram, .WhatsApp, .Email, .GitHub, .LinkedIn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    margin: 10px;
+    background-color: white;
+    border-radius: 80px;
+    color: #8300E9;
+ }
+
+ .Instagram:hover, .WhatsApp:hover, .Email:hover, .GitHub:hover, .LinkedIn:hover {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-family: "Open Sans", Helvetica, Arial, Lucida, sans-serif;
+    font-style: italic;
+    border-radius: 80px;
+    cursor: pointer;
+    padding: 18px;
+    background-color: white;
+    color: #8300E9;
+ }

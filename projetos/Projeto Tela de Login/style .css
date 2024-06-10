@@ -1,0 +1,141 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    width: 100%;
+    height: 100vh;
+    background-image: url(iphone-14-abstract-ios-16-dark-hd-wallpaper-uhdpaper.com-34@0@h.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center
+    ;
+}
+   
+.container{
+    max-width: 1280px;
+    margin:  auto;
+}
+
+.form-container {
+    background-color: #fff ;
+    max-width: 500px;
+    height: 450px;
+    padding: 40px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.92;
+}
+
+.input-single {
+    max-width: 1280px;
+    margin:  auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.input-single:hover {
+    cursor: text;
+}
+
+ .h1cadastro {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    background-color: rgb(66, 66, 187);
+    border-radius: 20px;
+    color: #fff;
+ }
+ .btn1 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:  rgb(66, 66, 187);
+    text-align: center;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 100%; 
+    height: 30px;
+    margin-top: 1%;
+    font-family: "Poppins", sans-serif; 
+    border-color:  rgb(66, 66, 187);
+    color: #fff;
+    letter-spacing: 0.5px;
+  }
+
+.btn1:hover {
+    background-color:#fff;
+    color: black;
+    width: 100%; 
+    height: 30px;
+    font-style: italic;
+}
+
+.btn2 {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:  rgb(66, 66, 187);
+    text-align: center;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 100%; 
+    height: 30px;
+    margin-top: 1%;
+    font-family: "Poppins", sans-serif; 
+    border-color:  rgb(66, 66, 187);
+    color: #fff;
+    letter-spacing: 0.5px;
+  }
+
+  .btn2:hover {
+    background-color:#fff;
+    color: black;
+    width: 100%; 
+    height: 30px;
+    font-style: italic;
+}
+
+
+ .pcadastro {
+    font-family: "Varela Round", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+ }
+
+ .caixacadastro {
+    min-width: 280px;
+    border-radius: 22px;
+    border: 2px rgb(66, 66, 187) solid;
+    padding: 5px;
+    margin: 0px 0px 12px -5px;
+    
+
+ }
+
+ .caixacadastro i {
+    font-size: 1.2em;
+    padding: 5px;
+    
+ }
+
+ .input {
+    border: none;
+    width: 80%;
+    outline: none;
+    font-family: 'Varela Round', sans-serif;
+    transform: translateY(-10%);
+    color: rgb(0, 0, 0);
+    font-size: 11pt;
+ }
